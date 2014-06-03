@@ -2,3 +2,4 @@ scarlet
 light red
 burgundy
 Crimson
+Obsidian
